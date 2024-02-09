@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavjoshi-cyber" alt="pranavjoshi-cyber" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Django, Flutter and Advanced Python**
+- 🌱 I’m currently learning **React, Django and Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranavjoshi-cyber](https://github.com/pranavjoshi-cyber)
 
