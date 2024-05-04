@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranavjoshi-cyber](https://github.com/pranavjoshi-cyber)
 
-- 💬 Ask me about ** Java, Android development, Python and current affairs.**
+- 💬 Ask me about **Java, Android development, Python and current affairs.**
 
 - 📫 How to reach me **pranavjoshi6565@gmail.com**
 
