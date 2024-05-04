@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavjoshi-cyber" alt="pranavjoshi-cyber" /></a> </p>
 
-- 🌱 I’m currently learning **React, Django and Springboot**
+- 🌱 I’m currently learning **Nodejs and Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranavjoshi-cyber](https://github.com/pranavjoshi-cyber)
 
-- 💬 Ask me about **Python, Core Java and current affairs.**
+- 💬 Ask me about ** Java, Android development, Python and current affairs.**
 
 - 📫 How to reach me **pranavjoshi6565@gmail.com**
 
