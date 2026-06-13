@@ -40,21 +40,6 @@
 
 ---
 
-### 📂 Projects
-
-#### 🛒 E-Commerce Website Test Automation
-> Selenium • TestNG • Cucumber • Java • POM • Jenkins • Extent Reports
-- Automated 80+ test scenarios — login, search, cart, and checkout workflows
-- Built reusable BDD framework with data-driven capabilities via TestNG DataProvider
-- Integrated with Jenkins for nightly regression runs with Extent Reports dashboards
-
-#### 📱 AutoMate – Vehicle Analysis App (Android)
-> Android • Flutter • Manual Testing • Postman • JIRA
-- Tested real-time metrics: speed, distance, mileage, braking intensity
-- Validated authentication workflows and identified 15+ critical defects
-- Reduced production defect leakage by 20% through structured test execution
-
----
 
 ### 📊 GitHub Stats
 
