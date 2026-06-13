@@ -11,7 +11,6 @@
 - 🌱 Currently exploring **Playwright** and **REST Assured** for modern test automation
 - 💬 Ask me about **Selenium, TestNG, Cucumber BDD, Java, API Testing, Jenkins CI/CD**
 - 📫 Reach me at **pranavjoshi6565@gmail.com**
-- 📍 Based in **Pune, India** | Open to QA Automation & SDET roles
 
 ---
 
